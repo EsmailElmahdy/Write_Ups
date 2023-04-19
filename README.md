@@ -1,2 +1,1 @@
-# Write_Ups
-Write-Ups for CTFs in CyberTalents 
+![Alt Text](image.png)
