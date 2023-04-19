@@ -8,4 +8,7 @@
 
 4- I used this command to print readable string and -n to make the length in 32 becuase of md5 formated in 32 hexadecimal digits.
 
+![image](https://user-images.githubusercontent.com/93736341/233186945-246a66b8-84e4-432a-a155-fe1ed56ecdd8.png)
+
+
 Then i got this flag (**877c1fa0445adaedc5365d9c139c5219**).
