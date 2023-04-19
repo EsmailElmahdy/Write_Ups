@@ -4,3 +4,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/93736341/233178887-2a9964e0-3a2c-4830-8190-6773d9366aba.png)
+i got this information
+
+2- i went to this website to dehash the hash [Hashs][hashs].
+
+[hashs]: https://hashes.com/en/decrypt/hash "Hashs"
