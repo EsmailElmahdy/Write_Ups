@@ -9,3 +9,8 @@ i got this information
 2- i went to this website to dehash the hash [Hashs][hashs].
 
 [hashs]: https://hashes.com/en/decrypt/hash "Hashs"
+
+Then i got the flag.
+![image](https://user-images.githubusercontent.com/93736341/233179459-909dbb9d-edcd-4ff6-847b-ec6b428ff9eb.png)
+
+Thats the flag(**Iamtheflag**).
